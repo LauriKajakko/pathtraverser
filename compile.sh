@@ -1,0 +1,1 @@
+nim c -d:ssl pathtraversal.nim
